@@ -1,0 +1,15 @@
+{
+  "name": "portfolio_full_code",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "genius-lyrics": "^4.4.7",
+    "node-fetch": "^3.3.2"
+  }
+}
